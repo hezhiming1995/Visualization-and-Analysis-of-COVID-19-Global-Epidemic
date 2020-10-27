@@ -26,9 +26,43 @@
 
 ## 四、数据分析：
 1. 中韩美新冠病毒每日确诊、治愈及死亡人数变化趋势：
-[](./Visualization%20of%20Results/1.1%20中国新冠病毒每日确诊、治愈及死亡人数变化趋势.png)
+
+ ![image](./Visualization%20of%20Results/1.1%20中国新冠病毒每日确诊、治愈及死亡人数变化趋势.png)
+
+  ![image](./Visualization%20of%20Results/1.2%20韩国新冠病毒每日确诊、治愈及死亡人数变化趋势.png)
+
+ ![image](./Visualization%20of%20Results/1.3%20美国新冠病毒每日确诊、治愈及死亡人数变化趋势.png)
+
 2. 全国及全球新冠肺炎疫情地图（累计确诊人数）：
+
+![image](./Visualization%20of%20Results/2.1%20全球新冠肺炎疫情地图（累计确诊人数）.png)
+
+![image](./Visualization%20of%20Results/2.2%20中国新冠肺炎疫情地图（累计确诊人数）.png)
+
+
 3. 中韩美三国疫情确诊人数的预测分析（95%置信区间）：
+
+![image](./Visualization%20of%20Results/3.3%20中国疫情确诊人数的预测分析（95%置信区间）.png)
+
+![image](./Visualization%20of%20Results/3.2%20美国疫情确诊人数的预测分析（95%置信区间）.png)
+
+![image](./Visualization%20of%20Results/3.1%20韩国疫情确诊人数的预测分析（95%置信区间）.png)
+
+
 4. 六大洲的死亡率、治愈率及确诊人数占比分析：
+
+![image](./Visualization%20of%20Results/4.1%20六大洲的死亡率和治愈率分析.png)
+
+![image](./Visualization%20of%20Results/4.2%20六大洲确诊人数分析.png)
+
 5. 1月至10月全球TOP10疫情国家变化图：
+
+![image](./Visualization%20of%20Results/5.1%201月至10月全球TOP10疫情国家变化图.png)
+
+![image](./Visualization%20of%20Results/5.2%20月至10月全球TOP10疫情国家变化图2.png)
+
 6. 2020新型冠状肺炎传播性与致死率分析：
+
+![image](./Visualization%20of%20Results/6.%202020新型冠状肺炎传播性与致死率分析.png)
+
+
