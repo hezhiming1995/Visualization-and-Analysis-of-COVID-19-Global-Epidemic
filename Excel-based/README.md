@@ -42,11 +42,11 @@
 
 3. 中韩美三国疫情确诊人数的预测分析（95%置信区间）：
 
-![image](./Visualization%20of%20Results/3.3%20中国疫情确诊人数的预测分析（95%置信区间）.png)
+![image](./Visualization%20of%20Results/3.1%20韩国疫情确诊人数的预测分析（95%25置信区间）.png)
 
-![image](./Visualization%20of%20Results/3.2%20美国疫情确诊人数的预测分析（95%置信区间）.png)
+![image](./Visualization%20of%20Results/3.2%20美国疫情确诊人数的预测分析（95%25置信区间）.png)
 
-![image](./Visualization%20of%20Results/3.1%20韩国疫情确诊人数的预测分析（95%置信区间）.png)
+![image](./Visualization%20of%20Results/3.3%20中国疫情确诊人数的预测分析（95%25置信区间）.png)
 
 
 4. 六大洲的死亡率、治愈率及确诊人数占比分析：
