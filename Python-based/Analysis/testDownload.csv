@@ -1,0 +1,6 @@
+,continentName,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_zipCode,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime,cityName,cityEnglishName,city_zipCode,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+0,北美洲,North America,美国,United States of America,美国,United States of America,971002,8338091,0.0,3323354,222210,2020-10-22,,,,,,,
+1,欧洲,Europe,法国,France,法国,France,961002,957421,0.0,107652,34048,2020-10-22,,,,,,,
+2,亚洲,Asia,印度,India,印度,India,953003,7706946,0.0,6795103,116616,2020-10-22,,,,,,,
+3,欧洲,Europe,英国,United Kingdom,英国,United Kingdom,961007,789229,0.0,539,44158,2020-10-22,,,,,,,
+4,南美洲,South America,巴西,Brazil,巴西,Brazil,973003,5300649,0.0,4721593,155459,2020-10-22,,,,,,,
